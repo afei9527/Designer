@@ -2,8 +2,8 @@
 {
 "property":
 	{
-		"LatestVerison":"V1.1",
-		"Url":"https://github.com/afei9527/Designer/releases/download/v1.0.0/Designer.exe",
+		"LatestVerison":"V1.0.1",
+		"Url":"https://github.com/afei9527/Designer/releases/download/v1.0.1/property_v1.0.1.exe",
 		"UpdateTime":"2023-03-27",
       	"ReleaseNote":"\n1.添加检查更新说明，包含版本号，下载链接，更新时间，更新说明.\n2.优化“关于”界面"
 	},
