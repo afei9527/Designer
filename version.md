@@ -6,7 +6,7 @@
 		"Url":"https://github.com/afei9527/Designer/releases/download/v1.0.2/property_v1.0.2.exe",
 		"UpdateTime":"2023-04-01",
       	"ReleaseNote":"\n v1.0.2支持：
-                                                        1:多选 ctrl+鼠标左键 复制 ctrl+c  粘贴 ctrl+v 全选 ctrl+a 
+                            1:多选 ctrl+鼠标左键 复制 ctrl+c  粘贴 ctrl+v 全选 ctrl+a 
                             v1.0.1支持：
                             1：添加检查更新说明，包含版本号，下载链接，更新时间，更新说明.
                             2.优化“关于”界面"
