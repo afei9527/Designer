@@ -3,7 +3,7 @@
 "property":
 	{
 		"LatestVerison":"V1.0.3",
-		"Url":"https://github.com/afei9527/Designer/releases/download/v1.0.2/property_v1.0.3.exe",
+		"Url":"https://github.com/afei9527/Designer/releases/download/v1.0.3/property_v1.0.3.exe",
 		"UpdateTime":"2023-04-01",
       	"ReleaseNote":" 
                             v1.0.3支持：
