@@ -2,10 +2,12 @@
 {
 "property":
 	{
-		"LatestVerison":"V1.0.3",
-		"Url":"https://github.com/afei9527/Designer/releases/download/v1.0.3/property_v1.0.3.exe",
-		"UpdateTime":"2023-04-01",
+		"LatestVerison":"V1.0.4",
+		"Url":"https://github.com/afei9527/Designer/releases/download/v1.0.4/property_v1.0.4.exe",
+		"UpdateTime":"2023-04-07",
       	"ReleaseNote":" 
+	                    v1.0.4支持：
+			    1：右键菜单，控件对齐方式。
                             v1.0.3支持：
                             1：支持鼠标左键框选控件
                             v1.0.2支持：
@@ -13,6 +15,7 @@
                             v1.0.1支持：
                             1：添加检查更新说明，包含版本号，下载链接，更新时间，更新说明.
                             2.优化“关于”界面"
+			    
 
 
 	},
