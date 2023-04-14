@@ -2,10 +2,12 @@
 {
 "property":
 	{
-		"LatestVerison":"V1.0.4",
-		"Url":"https://github.com/afei9527/Designer/releases/download/v1.0.4/property_v1.0.4.exe",
-		"UpdateTime":"2023-04-07",
+		"LatestVerison":"V1.0.5",
+		"Url":"https://github.com/afei9527/Designer/releases/download/v1.0.5/property_v1.0.5.exe",
+		"UpdateTime":"2023-04-14",
       	"ReleaseNote":" 
+	                    v1.0.5支持：
+			    1：添加object窗口关联 
 	                    v1.0.4支持：
 			    1：右键菜单，控件对齐方式。
                             v1.0.3支持：
