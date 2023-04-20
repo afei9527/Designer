@@ -5,7 +5,7 @@
 		"LatestVerison":"V1.0.6",
 		"Url":"https://github.com/afei9527/Designer/releases/download/v1.0.6/property_v1.0.6.exe",
 		"UpdateTime":"2023-04-22",
-      	"ReleaseNote":" t
+      	"ReleaseNote":" 
 	                    v1.0.6支持：
 			    1：支持语言切换  主菜单工具->语言->中文 英语 
 	                    v1.0.5支持：
