@@ -2,10 +2,12 @@
 {
 "property":
 	{
-		"LatestVerison":"V1.0.7",
-		"Url":"https://github.com/afei9527/Designer/releases/download/v1.0.7/property_v1.0.7.exe",
-		"UpdateTime":"2023-04-24",
+		"LatestVerison":"V1.0.8",
+		"Url":"https://github.com/afei9527/Designer/releases/download/v1.0.8/property_v1.0.8.exe",
+		"UpdateTime":"2023-04-26",
       	"ReleaseNote":" 
+	                    v1.0.8支持：
+			    1：完胜多语言切换，修复bug
 	                    v1.0.7支持：
 			    1：支持撤销与重做(ctrl+z ctrl+y) 目前支持新建与删除两个动作。
 	                    v1.0.6支持：
