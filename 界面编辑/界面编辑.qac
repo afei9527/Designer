@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root ProjectName="界面编辑">
+    <SystemStr NameStr="界面">
+        <SystemStr NameStr="界面1.ui"/>
+        <SystemStr NameStr="界面2.ui"/>
+    </SystemStr>
+    <SystemStr NameStr="资源"/>
+    <SystemStr NameStr="逻辑表"/>
+</Root>

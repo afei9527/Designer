@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<canvas width="1280" height="720">
+	<ImageView x="131" y="100" width="198" height="194" imageName="1-200G9130603.jpg" pixmap="">
+	<user_widget name="" show="true" lock="false"/>
+	</ImageView>
+	<ImageView x="412" y="194" width="198" height="194" imageName="1-200G9130603.jpg" pixmap="">
+	<user_widget name="" show="true" lock="false"/>
+	</ImageView>
+</canvas>
