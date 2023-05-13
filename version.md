@@ -2,10 +2,12 @@
 {
 "property":
 	{
-		"LatestVerison":"V1.1.0",
-		"Url":"https://github.com/afei9527/Designer/releases/download/v1.1.0/property_v1.1.0.exe",
+		"LatestVerison":"V1.1.1",
+		"Url":"https://github.com/afei9527/Designer/releases/download/v1.1.1/property_v1.1.1.exe",
 		"UpdateTime":"2023-05-07",
       	"ReleaseNote":" 
+	                    v1.1.0支持：2023-05-13
+			    1：加入dbc 编辑程序。
 	                    v1.1.0支持：2023-05-07
 			    1：增加隐藏显示与控件锁，修复多选时控件拉升bug。
 	                    v1.0.9支持：
